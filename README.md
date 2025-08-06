@@ -7,7 +7,7 @@ The HTML report is archived and kept in the artifact section for the team to dow
 The latest report is mailed to the team members using GMAIL SMTP.
 
 ## About Me ##
-Hi My name is Jatin Sharma. I have 3.6 years of experience in Automation Testing. My Skillset includes UI Automation with Selenium Webdriver and for API Testing I use Postman and Rest Assured.
+Hi My name is Ajay Prasad. I have 3.6 years of experience in Automation Testing. My Skillset includes UI Automation with Selenium Webdriver and for API Testing I use Postman and Rest Assured.
 You can connect with me over: https://www.linkedin.com/in/ajay-prasad-k-j-8107921a4/
 
 ## Testing Coverage ##
